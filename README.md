@@ -1,6 +1,6 @@
 # Retrieval-Augmented Generation (RAG)
 
-This project demonstrates a **Retrieval-Augmented Generation (RAG)** pipeline that combines document retrieval with a large language model for question answering.
+This project demonstrates a **Retrieval-Augmented Generation (RAG)** pipeline that combines document retrieval with large language model for question answering.
 
 ## Overview
 
