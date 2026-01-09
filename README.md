@@ -4,7 +4,7 @@ This project demonstrates a **Retrieval-Augmented Generation (RAG)** pipeline th
 
 ## Overview
 
-The notebook `rag.ipynb` showcases how to enhance language model responses by integrating relevant external information retrieved from a document store or knowledge base. This approach allows the model to generate more accurate, context-aware, and up-to-date answers.
+This notebook `rag.ipynb` showcases how to enhance language model responses by integrating relevant external information retrieved from a document store or knowledge base. This approach allows the model to generate more accurate, context-aware, and up-to-date answers.
 
 ## Features
 
